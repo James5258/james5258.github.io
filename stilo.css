@@ -381,11 +381,16 @@ li a{
             width: 90%;
         }
 
-        #cuadromensaje,#texto,#texto-d,#texto-e{
+        #cuadromensaje{
             display: inline-flex;
             position: relative;
             width: 80%;
             left: 15px;
+    }
+        
+        #texto-e,#texto-d{
+        width: 25%;
+
     }
    
     footer{
@@ -409,10 +414,15 @@ li a{
     }
 
 
-    #cuadromensaje,#texto,#texto-d,#texto-e{
+    #cuadromensaje{
         display: inline-flex;
         position: relative;
         
+    }
+    
+    #texto-e,#texto-d{
+        width: 25%;
+
     }
 
     .botones{
