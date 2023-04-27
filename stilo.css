@@ -163,6 +163,8 @@ main{
     text-align: center;
     white-space: pre-line;
     margin: 12px 0 0 0;
+    word-wrap: break-word;
+
 
 }
 #texto-e{
@@ -177,6 +179,7 @@ main{
     color: rgb(57, 57, 209);
     font-family: 'Work Sans', sans-serif;
     word-wrap: balance;
+    word-wrap: break-word;
     text-align: center;
     margin: 12px 0 0 0;
 
