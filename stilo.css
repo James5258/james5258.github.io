@@ -55,6 +55,7 @@ main{
     margin: 10px;
     background: rgb(180, 217, 255);
     border-radius: 15px;
+    resize: none;
 
 }
 #cuadromensaje{
